@@ -12,3 +12,17 @@ C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClasses\
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.pdb
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.genruntimeconfig.cache
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\ref\MethodsAndClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\bin\Debug\net6.0\MethodsAndClasses.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\bin\Debug\net6.0\MethodsAndClasses.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\bin\Debug\net6.0\MethodsAndClasses.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\bin\Debug\net6.0\MethodsAndClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\bin\Debug\net6.0\MethodsAndClasses.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\refint\MethodsAndClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\MethodsAndClasses.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\MethodsAndClassesTasks\MethodsAndClasses\MethodsAndClasses\obj\Debug\net6.0\ref\MethodsAndClasses.dll

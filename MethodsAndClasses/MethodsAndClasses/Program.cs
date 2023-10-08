@@ -4,19 +4,21 @@
     {
         static void Main(string[] args)
         {
-            GetValueByConsole();
+            //GetValueByConsole();
 
 
-            int[] numbers = { 1, 2, 3, 4, 5 };
-            AddElementToArr(ref numbers, 12);
-            foreach (var item in numbers)
-            {
-                Console.WriteLine(item);
-            }
+            //int[] numbers = { 1, 2, 3, 4, 5 };
+            //AddElementToArr(ref numbers, 12);
+            //foreach (var item in numbers)
+            //{
+            //    Console.WriteLine(item);
+            //}
 
 
-            Car car = new Car("BMW", "X6", 40, 3, 20000);
-            car.Drive(12000);
+            Car car = new Car("BMW", "X6", 60, 3, 100);
+            car.Drive(15);
+            
+
 
             #region ThreeMethod
             static void GetValueByConsole()

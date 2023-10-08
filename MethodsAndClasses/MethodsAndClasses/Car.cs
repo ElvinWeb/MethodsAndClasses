@@ -26,7 +26,7 @@ namespace MethodsAndClasses
 
         public void Drive(int distance)
         {
-            double requiredFuel = distance * FuelFor1Km / 1000;
+            double requiredFuel = distance * FuelFor1Km;
             if (requiredFuel <= CurrentFuel)
             {
                 Millage += distance;
